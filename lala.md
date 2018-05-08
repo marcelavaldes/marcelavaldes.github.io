@@ -8,25 +8,25 @@ El pago debe realizarse de manera total antes de comenzar la(s) sesión(es).
 Porfavor recordar que un aviso de cancelación de 24 horas es requerido para todas las lecciones.
 Contáctate para asegurar tus lecciones o para consultar cuál es la modalidad más óptima para ti.
 
-# LECCIONES PARTICULARES
+# Lecciones particulares
 Clases para individuos o grupos pequeños donde tú armas los horarios. 
 
-*individuales
--1 hora $15.000
--pak de 5 horas $50.000 (ahorro $25.000) $10.000 v/h
--pack de 10 horas $100.0000 (ahorro $50.000) $10.000 v/h
+**individuales**
+- 1 hora $15.000
+- pack de 5 horas $50.000 (ahorro $25.000) 
+- pack de 10 horas $100.0000 (ahorro $50.000) 
 
-*grupales
+**grupales**
 
-> pack dúo (valores incluyen 2 personas)
--1 hora $20.000 v/h // $10.000 p/p (x2)
--pack de 5 horas $70.000 (ahorro $30.000) $14.000 v/h // $7.000 p/p (x2)
--pack de 10 horas $140.000 (ahorro $60.000) $14.000 v/h // $7.000 p/p (x2)
+1. pack dúo (valores incluyen 2 personas)
+  - 1 hora $20.000 v/h // $10.000 p/p (x2)
+  - pack de 5 horas $70.000 (ahorro $30.000) 
+  - pack de 10 horas $140.000 (ahorro $60.000) 
 
-> pack trío (valores incluyen 3 personas)
--1 hora $15.000 v/h // $5.000 p/p (x3)
--pack de 5 horas $60.000 (ahorro $15.000) $15.000 v/h // $5.000 p/p (x3)
--pack de 10 horas $120.000 (ahorro $30.000) $12.000 v/h // $4.000 p/p (x3)
+2. pack trío (valores incluyen 3 personas)
+  - 1 hora $15.000 v/h 
+  - pack de 5 horas $60.000 (ahorro $15.000)
+  - pack de 10 horas $120.000 (ahorro $30.000)
 
 > grupos +3 personas
 Por favor escríbenos para encontrar la mejor solución para ustedes.
