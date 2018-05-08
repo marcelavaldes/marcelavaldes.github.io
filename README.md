@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+# CONVOCATORIA TALLER DE FRANCES
 
-You can use the [editor on GitHub](https://github.com/marcelavaldes/marcelavaldes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Te invitamos a visitar [nuestra comunidad](https://latelierdufrancais.cl) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## METODOLOGIA
+Introducir los contenidos a través de actividades de comprensión y utilización de material impreso y digital para conocer el funcionamiento del idioma en cuanto a gramática, léxico y fonética a través de ejercicios prácticos. 
+Las sesiones consideran como mínimo una hora de clase con trabajo de lectura, escritura y pronunciación. 
 
-### Markdown
+## CONTENIDO
+- 
+
+## METODOLOGIA
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
