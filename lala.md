@@ -1,13 +1,14 @@
-L'atelier du Français : Aprende a tu ritmo con clases personalizadas de Francés en la Región del Maule.
+# L'atelier du Français
+## Aprende a tu ritmo con clases personalizadas de Francés en la Región del Maule.
 
-TE GUSTARIA APRENDER
+### ¿TE GUSTARIA APRENDER?
 Puedes escoger lecciones particulares con packs de 1, 5 y 10 horas para que dispongas de ellas como tu quieras.
 Las tarifas son las mismas para todos los niveles y todo el material es provisto por L'atelier du Français. 
 El pago debe realizarse de manera total antes de comenzar la(s) sesión(es).
 Porfavor recordar que un aviso de cancelación de 24 horas es requerido para todas las lecciones.
 Contáctate para asegurar tus lecciones o para consultar cuál es la modalidad más óptima para ti.
 
-LECCIONES PARTICULARES
+# LECCIONES PARTICULARES
 Clases para individuos o grupos pequeños donde tú armas los horarios. 
 
 *individuales
