@@ -1,32 +1,32 @@
 # L'atelier du Français
-## Aprende a tu ritmo con clases personalizadas de Francés en la Región del Maule.
+Aprende a tu ritmo con clases personalizadas de Francés en la Región del Maule.
 
-### ¿TE GUSTARIA APRENDER?
+**¿Te gustaría aprender?**
 Puedes escoger lecciones particulares con packs de 1, 5 y 10 horas para que dispongas de ellas como tu quieras.
 Las tarifas son las mismas para todos los niveles y todo el material es provisto por L'atelier du Français. 
 El pago debe realizarse de manera total antes de comenzar la(s) sesión(es).
 Porfavor recordar que un aviso de cancelación de 24 horas es requerido para todas las lecciones.
 Contáctate para asegurar tus lecciones o para consultar cuál es la modalidad más óptima para ti.
 
-# Lecciones particulares
+## Lecciones particulares
 Clases para individuos o grupos pequeños donde tú armas los horarios. 
 
-**individuales**
-- 1 hora $15.000
-- pack de 5 horas $50.000 (ahorro $25.000) 
-- pack de 10 horas $100.0000 (ahorro $50.000) 
+### Individuales
+    - 1 hora $15.000
+    - pack de 5 horas $50.000 (ahorro $25.000) 
+    - pack de 10 horas $100.0000 (ahorro $50.000) 
 
-**grupales**
+### Grupales
 
 1. pack dúo (valores incluyen 2 personas)
-  - 1 hora $20.000 v/h // $10.000 p/p (x2)
-  - pack de 5 horas $70.000 (ahorro $30.000)
-  - pack de 10 horas $140.000 (ahorro $60.000) 
+   - 1 hora $20.000 v/h // $10.000 p/p (x2)
+   - pack de 5 horas $70.000 (ahorro $30.000)
+   - pack de 10 horas $140.000 (ahorro $60.000) 
 
 2. pack trío (valores incluyen 3 personas)
-  - 1 hora $15.000 v/h
-  - pack de 5 horas $60.000 (ahorro $15.000)
-  - pack de 10 horas $120.000 (ahorro $30.000)
+   - 1 hora $15.000 v/h
+   - pack de 5 horas $60.000 (ahorro $15.000)
+   - pack de 10 horas $120.000 (ahorro $30.000)
 
 > grupos +3 personas
 Por favor escríbenos para encontrar la mejor solución para ustedes.
