@@ -20,11 +20,11 @@ Clases para individuos o grupos pequeños donde tú armas los horarios.
 
 1. pack dúo (valores incluyen 2 personas)
   - 1 hora $20.000 v/h // $10.000 p/p (x2)
-  - pack de 5 horas $70.000 (ahorro $30.000) 
+  - pack de 5 horas $70.000 (ahorro $30.000)
   - pack de 10 horas $140.000 (ahorro $60.000) 
 
 2. pack trío (valores incluyen 3 personas)
-  - 1 hora $15.000 v/h 
+  - 1 hora $15.000 v/h
   - pack de 5 horas $60.000 (ahorro $15.000)
   - pack de 10 horas $120.000 (ahorro $30.000)
 
